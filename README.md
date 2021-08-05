@@ -1,21 +1,21 @@
-Project Title: Fake News Detection
+**Project Title: Fake News Detection**
 
-Abstract of project 
+**Abstract of project** 
 
 Do you trust all the news you hear from social media?
 All news are not real, right?
 How will you detect fake news?
 The answer is Python. By practicing this Machine Learning project of detecting fake news, you will easily make a difference between real and fake news.
 
-Project summary 
+**Project summary **
 
 This project of detecting fake news deals with fake and real news. Using sklearn, we build a TfidfVectorizer on our dataset. Then, we initialize a PassiveAggressive Classifier and fit the model. In the end, the accuracy score and the confusion matrix tell us how well our model fares.
 
-Objectives of Project 
+**Objectives of Project **
 
 To build a model that accurately classifies a piece of news as REAL or FAKE.
 
-Details of project developed 
+**Details of project developed **
 
 Before moving ahead in this machine learning project, get aware of the terms related to it like fake news, tfidfvectorizer, PassiveAggressive Classifier.
 
@@ -36,7 +36,7 @@ What is a PassiveAggressiveClassifier?
 Passive Aggressive algorithms are online learning algorithms. Such an algorithm remains passive for a correct classification outcome, and turns aggressive in the event of a miscalculation, updating and adjusting. Unlike most other algorithms, it does not converge. Its purpose is to make updates that correct the loss, causing very little change in the norm of the weight vector.
 This is a machine learning project of detecting fake news deals with fake and real news. Using sklearn, we build a TfidfVectorizer on our dataset. Then, we initialize a PassiveAggressive Classifier and fit the model. In the end, the accuracy score and the confusion matrix tell us how well our model fares.
 
-System Requirements used 
+**System Requirements used **
 1. Windows 10
 2. Command Prompt
 3. Anaconda
