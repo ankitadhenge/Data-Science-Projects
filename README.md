@@ -1,7 +1,7 @@
 **Project Title: Fake News Detection**
 
 
-**Abstract of project** 
+**Abstract of project**
 
 Do you trust all the news you hear from social media?
 All news are not real, right?
